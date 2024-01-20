@@ -3,4 +3,4 @@
 a file which contains my code
 ## 
 ## Environment using.txt
-as you see just what
+What you see is what you get
